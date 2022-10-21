@@ -1,0 +1,17 @@
+
+<div class="container">
+    <div class="row">
+      <div class="col-sm-6" *ngFor="let item of products">
+        <div class="card">
+          <div class="card-body">
+            <a [routerLink]="['/product',item.productID]">
+              <img class="card-img"  [src]="item.image">
+            </a>
+<!--            <img class="card-img"  [src]="item.image">-->
+            <h5 class="card-title"><a [routerLink]="['/product',item.productID]">{{item.name}} </a></h5>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>

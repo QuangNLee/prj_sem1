@@ -1,0 +1,270 @@
+{
+    "Product": [
+        {
+            "id": 1,
+            "productName": "Balenciaga 1",
+            "brandID": 5,
+            "Gender": "Male",
+            "image": "https://i.pinimg.com/564x/46/c1/c9/46c1c9af5398c08fdddfcb801f6ec21b.jpg",
+            "content": "",
+			      "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 645,
+            "status": 1
+        },
+        {
+            "id": 2,
+            "productName": "Balenciaga 2",
+            "brandID": 5,
+            "Gender": "Female",
+            "image": "https://i.pinimg.com/564x/f3/f7/28/f3f728b6c133f21b895364d722d22eb3.jpg",
+            "content": "asdasdasd",
+			      "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 645,
+            "status": 1
+        },
+        {
+            "id": 3,
+            "productName": "Dolce & Gabbana 3",
+            "brandID": 6,
+            "Gender": "Female",
+            "image": "https://i.pinimg.com/564x/9e/01/0a/9e010ad105dcaa2b6de4e4419d699433.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 4,
+            "productName": "Dolce & Gabbana 4",
+            "brandID": 6,
+            "Gender": "Male",
+            "image": "https://i.pinimg.com/564x/6d/98/88/6d9888fbb1a230936086dae74ad71ad2.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 5,
+            "productName": "Louis Vuitton 5",
+            "brandID": 2,
+            "Gender": "Female",
+            "image": "https://i.pinimg.com/564x/1e/17/35/1e17353ad14e75c0d247ade7f04eff53.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 6,
+            "productName": "Louis Vuitton 6",
+            "brandID": 2,
+            "Gender": "Male",
+            "image": "https://i.pinimg.com/564x/10/70/f5/1070f56259f6b8624e6ab3b1df2879f4.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 7,
+            "productName": "Prada 7",
+            "brandID": 8,
+            "Gender": "Female",
+            "image": "https://i.pinimg.com/564x/1e/17/35/1e17353ad14e75c0d247ade7f04eff53.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 8,
+            "productName": "Prada 8",
+            "brandID": 8,
+            "Gender": "Male",
+            "image": "https://i.pinimg.com/564x/10/70/f5/1070f56259f6b8624e6ab3b1df2879f4.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 9,
+            "productName": "Chanel 9",
+            "brandID": 4,
+            "Gender": "Female",
+            "image": "https://i.pinimg.com/236x/96/2c/7c/962c7cf4fe5ad568d90631e0efe5eb9a.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 10,
+            "productName": "Chanel 10",
+            "brandID": 4,
+            "Gender": "Male",
+            "image": "https://i.pinimg.com/564x/04/f5/f9/04f5f9c3ed0bc9d332d519210ee72984.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 11,
+            "productName": "Chrome Hearts 11",
+            "brandID": 7,
+            "Gender": "Female",
+            "image": "https://i.pinimg.com/236x/a7/0d/46/a70d4656108b15b6a843c38e0f8eabea.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 12,
+            "productName": "Chrome Hearts 12",
+            "brandID": 7,
+            "Gender": "Male",
+            "image": "https://i.pinimg.com/236x/0e/a4/64/0ea464aa7b725bd7df0257feaf32dc83.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 13,
+            "productName": "Dior 13",
+            "brandID": 3,
+            "Gender": "Female",
+            "image": "https://i.pinimg.com/236x/a6/2c/24/a62c244c11019a24a71a11360382baa5.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 14,
+            "productName": "Dior 14",
+            "brandID": 3,
+            "Gender": "Male",
+            "image": "https://i.pinimg.com/236x/eb/2a/83/eb2a8318c8423bd808a90bbf7d199f62.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 15,
+            "productName": "Gucci 15",
+            "brandID": 1,
+            "Gender": "Female",
+            "image": "https://i.pinimg.com/736x/03/af/cf/03afcf23e1cd2e242413b4e33ac3dc35.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        },
+        {
+            "id": 16,
+            "productName": "Gucci 16",
+            "brandID": 1,
+            "Gender": "Male",
+            "image": "https://i.pinimg.com/736x/42/1c/05/421c05be56c691a6af34c3a0c7d83460.jpg",
+            "content": "asdasdasd",
+            "rating": "91% of buyers enjoyed this product! (87 votes)",
+            "origin": "Italia",
+            "price": 6450000,
+            "status": 1
+        }
+    ],
+    "Brands": [
+        {
+            "id": 1,
+            "brandName": "GUCCI",
+            "routeLink": "gucci",
+            "image": "https://i.pinimg.com/564x/96/5f/3d/965f3d2dea30be007523d5f666d91d1b.jpg",
+            "ownerImage": "https://i.pinimg.com/564x/39/15/74/39157439748adb465f30ec0baed8e1fa.jpg",
+            "linkOwner": "https://www.gucci.com/",
+            "ownerName": "Guccio Gucci"
+        },
+        {
+            "id": 2,
+            "brandName": "LOUIS VUITON",
+            "routeLink": "lv",
+            "image": "https://i.pinimg.com/564x/92/5f/27/925f27cbb51056964b9a784016a4c041.jpg",
+            "ownerImage": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Portrait-Louis-Vuitton.jpg",
+            "linkOwner": "https://www.louisvuitton.com/",
+            "ownerName": "Louis Vuitton"
+        },
+        {
+            "id": 3,
+            "brandName": "DIOR",
+            "routeLink": "dior",
+            "image": "https://i.pinimg.com/564x/90/01/c5/9001c596f585c9085462bafdf6d2aafe.jpg",
+            "ownerImage": "https://cdn.britannica.com/13/12313-004-03D84561/Christian-Dior-1957.jpg",
+            "linkOwner": "https://www.dior.com/en_vn?gclid=Cj0KCQjwyt-ZBhCNARIsAKH1175i455kB8wJ9MAOa6bdXcP8AZvRuBtiHcy38nXC4FIHe_XmWIVkMTUaAh9NEALw_wcB",
+            "ownerName": "Chistian Dior"
+        },
+        {
+            "id": 4,
+            "brandName": "CHANEL",
+            "routeLink": "chanl",
+            "image": "https://i.pinimg.com/564x/46/7c/50/467c507f1b31fa2fd1c0791b3045ae2b.jpg",
+            "ownerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzJkoiVL34gJmJG6xSEdA66CGt2J4wIA3FGlpzrWSjofrO7DBNPbGZzCZrLWcZ7IV0ic&usqp=CAU",
+            "linkOwner": "https://www.chanel.com/vn/",
+            "ownerName": "Co Co Chanel"
+        },
+        {
+            "id": 5,
+            "brandName": "BALENCIAGA",
+            "routeLink": "balenciaga",
+            "image": "https://i.pinimg.com/564x/e1/e7/ed/e1e7edfa732ad044952af7b1dda0e2d2.jpg",
+            "ownerImage": "https://i.pinimg.com/564x/6f/e3/be/6fe3befe05a7d4185b7df2796b0f8908.jpg",
+            "linkOwner": "https://www.fwrd.com/brand-balenciaga/e5f885/",
+            "ownerName": "Cristobal Balenciaga"
+        },
+        {
+            "id": 6,
+            "brandName": "DOLCE & GABBANA",
+            "routeLink": "dolcegabana",
+            "image": "https://i.pinimg.com/564x/d2/0c/c4/d20cc4d496720e3e9bac71bd811918e5.jpg",
+            "ownerImage": "https://i.pinimg.com/564x/72/a2/2e/72a22edd2e0a72afe9661e0f78c948a4.jpg",
+            "linkOwner": "https://www.dolcegabbana.com/en/",
+            "ownerName": "Domenico Dolce & Stefano Gabana"
+        },
+        {
+            "id": 7,
+            "brandName": "CHROME HEARTS",
+            "routeLink": "chromehearts",
+            "image": "https://i.pinimg.com/564x/56/33/27/56332708162bcf7a7a619b1266adf6a8.jpg",
+            "ownerImage": "https://i.pinimg.com/564x/e2/f8/cc/e2f8cce3156357b72d08f02a0bf5cf8c.jpg",
+            "linkOwner": "https://www.chromehearts.com/",
+            "ownerName": "Richard Stark"
+        },
+        {
+            "id": 8,
+            "brandName": "PRADA",
+            "routeLink": "prada",
+            "image": "https://i.pinimg.com/736x/b5/b1/f5/b5b1f5cbaffdadc342377871b56c7cdd.jpg",
+            "ownerImage": "https://i.pinimg.com/564x/a8/68/a7/a868a7b5cd387d6cead2cb73c9dff5a3.jpg",
+            "linkOwner": "https://www.prada.com/ww/en.html",
+            "ownerName": "Mario Prada"
+        }
+    ]
+}
